@@ -1,0 +1,233 @@
+section {
+    margin-bottom: 100px;
+    padding: 20px;
+    background-color: lightcoral;
+}
+
+h1 {
+    text-align: center;
+    font-family: serif;
+    font-weight: bolder;
+    color: darkslateblue;
+}
+
+/* First layout */
+.logo-one {
+    height: 100px;
+    background-color: cornflowerblue;
+    margin-bottom: 10px;
+}
+
+.nav-one {
+    height: 50px;
+    background-color: lightskyblue;
+    margin-bottom: 10px;
+}
+
+.header-one {
+    height: 150px;
+    background-color: darkcyan;
+    margin-bottom: 10px;
+}
+
+.container-one {
+    overflow: hidden;
+    margin-bottom: 10px;
+}
+
+.sidebar-one {
+    height: 500px;
+    background-color: rebeccapurple;
+    width: 29%;
+    float: left;
+    margin-right: 10px;
+}
+
+.body-area-one {
+    height: 500px;
+    background-color: lightblue;
+    width: 70%;
+    float: right;
+}
+
+.footer {
+    height: 100px;
+    background-color: darkslategrey;
+}
+
+/* second layout */
+
+.logo-two {
+    height: 80px;
+    background-color: cornflowerblue;
+    margin-bottom: 10px;
+}
+
+.header-two {
+    height: 150px;
+    background-color: darkcyan;
+    margin-bottom: 10px;
+}
+
+.info-two {
+    height: 100px;
+    background-color: lightskyblue;
+    margin-bottom: 10px;
+}
+
+.container-two {
+    overflow: hidden;
+    margin-bottom: 10px;
+
+}
+
+.container-two {
+    overflow: hidden;
+}
+
+.box {
+    height: 500px;
+    float: left;
+    width: 30%;
+    margin: 20px;
+}
+
+.green {
+    background-color: darkseagreen;
+}
+
+.blue {
+    background-color: cornflowerblue;
+}
+
+.cyan {
+    background-color: darkcyan;
+}
+
+
+/* THIRD LAYOUT */
+.logo-three {
+    height: 80px;
+    background-color: cornflowerblue;
+    margin-bottom: 10px;
+}
+
+.container-three {
+    overflow: hidden;
+    margin-bottom: 10px;
+}
+
+.container-three-first {
+    width: 30%;
+    height: 600px;
+    background-color: lightskyblue;
+    float: left;
+}
+
+.container-three-second {
+    width: 68%;
+    height: 600px;
+    float: right;
+    margin-right: 10px;
+
+}
+
+.header-three {
+    height: 28%;
+    background-color: darkcyan;
+    margin-bottom: 10px;
+}
+
+.body-area-three {
+    height: 70%;
+    background-color: rebeccapurple;
+}
+
+
+
+/* FOURTH LAYOUT */
+.logo-four {
+    height: 120px;
+    background-color: cornflowerblue;
+}
+
+.container-four-small-box {
+    overflow: hidden;
+    padding: 20px;
+}
+
+.raw {
+    height: 300px;
+    overflow: hidden;
+    padding: 20px;
+}
+
+.box-small {
+    padding: 10px;
+    margin: 20px;
+    height: 200px;
+    width: 250px;
+    background-color: crimson;
+    float: left;
+}
+
+/* FIFTH LAYOUT */
+.logo-five {
+    height: 100px;
+    background-color: cornflowerblue;
+    margin-bottom: 30px;
+}
+
+.header-five {
+    height: 250px;
+    background-color: darkcyan;
+    margin-bottom: 30px;
+}
+
+.container-nav-box {
+    overflow: hidden;
+    margin-bottom: 30px;
+}
+
+.box-nav {
+    width: 24%;
+    height: 80px;
+    background-color: cornflowerblue;
+    margin-right: 1%;
+    float: left;
+}
+
+.container-about-links {
+    overflow: hidden;
+    margin-bottom: 20px;
+}
+
+.container-about {
+    height: 500px;
+    width: 58%;
+    margin-right: 20px;
+    float: left;
+    background-color: cadetblue;
+}
+
+.container-links {
+    height: 500px;
+    width: 40%;
+    float: right;
+}
+
+.links-part-top {
+    height: 38%;
+    background-color: lightblue;
+    margin-bottom: 20px;
+}
+
+.links-part-bottom {
+    height: 60%;
+    background-color: lightblue;
+}
+
+.site-plan {
+    height: 250px;
+    background-color: darkslategrey;
+}
